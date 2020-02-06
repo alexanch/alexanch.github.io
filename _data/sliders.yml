@@ -1,0 +1,61 @@
+- selector: slider1
+  bullets: false
+  captions: false
+  images:
+    - src: /images/sib/sib1.jpg
+    - data-src: /images/sib/sib2.jpg
+    - data-src: /images/sib/sib3.jpg
+    - data-src: /images/sib/sib4.jpg
+    - data-src: /images/sib/sib5.jpg
+  settings:
+    height: "'auto'"
+    initialHeight:
+    maxHeight:
+    interval: 3000
+    transitionDuration:
+    effect: "'fade'"
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+
+- selector: slider2
+  bullets: false
+  captions: false
+  images:
+    - src: /images/color_checker/cc1.jpg
+    - data-src: /images/color_checker/cc2.jpg
+    - data-src: /images/color_checker/cc3.jpg
+    - data-src: /images/color_checker/cc4.jpg
+    - data-src: /images/color_checker/cc5.jpg
+    - data-src: /images/color_checker/cc6.jpg
+    - data-src: /images/color_checker/cc7.jpg
+    - data-src: /images/color_checker/cc8.jpg
+  settings:
+    height: "'auto'"
+    interval: 13000
+    effect: "'fade'"
+
+- selector: slider3
+  images:
+    - src: /images/joint/joint1.jpg
+    - data-src: /images/joint/joint2.jpg
+    - data-src: /images/joint/joint3.jpg
+    - data-src: /images/joint/joint4.jpg
+    - data-src: /images/joint/joint5.jpg
+  settings:
+    height: "'auto'"
+    interval: 18000
+    effect: "'fade'"
+
+- selector: slider4
+  images:
+    - src: /images/cv/cv1.jpg
+    - data-src: /images/cv/cv2.jpg
+    - data-src: /images/cv/cv3.jpg
+    - data-src: /images/cv/cv4.jpg
+    - data-src: /images/cv/cv5.jpg
+  settings:
+    height: "'auto'"
+    interval: 23000
+    effect: "'fade'"
