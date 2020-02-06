@@ -6,7 +6,15 @@
     
     
     <url>
+        <loc>http://localhost:5000/alexanch.github.io-master/404/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:5000/404/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:5000/alexanch.github.io-master/about/</loc>
     </url>
     
     <url>
@@ -18,7 +26,19 @@
     </url>
     
     <url>
+        <loc>http://localhost:5000/extracurricular/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:5000/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:5000/alexanch.github.io-master/</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:5000/projects/</loc>
     </url>
     
     <url>
@@ -30,7 +50,15 @@
     </url>
     
     <url>
+        <loc>http://localhost:5000/publications/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:5000/sitemap.xml</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:5000/alexanch.github.io-master/sitemap.xml</loc>
     </url>
     
 
