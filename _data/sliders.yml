@@ -54,7 +54,6 @@
     - data-src: /images/cv/cv2.JPG
     - data-src: /images/cv/cv3.JPG
     - data-src: /images/cv/cv4.JPG
-    - data-src: /images/cv/cv5.JPG
   settings:
     height: "'auto'"
     interval: 23000
