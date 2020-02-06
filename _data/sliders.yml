@@ -2,11 +2,11 @@
   bullets: false
   captions: false
   images:
-    - src: /images/sib/sib1.jpg
-    - data-src: /images/sib/sib2.jpg
-    - data-src: /images/sib/sib3.jpg
-    - data-src: /images/sib/sib4.jpg
-    - data-src: /images/sib/sib5.jpg
+    - src: /images/sib/sib1.JPG
+    - data-src: /images/sib/sib2.JPG
+    - data-src: /images/sib/sib3.JPG
+    - data-src: /images/sib/sib4.JPG
+    - data-src: /images/sib/sib5.JPG
   settings:
     height: "'auto'"
     initialHeight:
@@ -23,14 +23,14 @@
   bullets: false
   captions: false
   images:
-    - src: /images/color_checker/cc1.jpg
-    - data-src: /images/color_checker/cc2.jpg
-    - data-src: /images/color_checker/cc3.jpg
-    - data-src: /images/color_checker/cc4.jpg
-    - data-src: /images/color_checker/cc5.jpg
-    - data-src: /images/color_checker/cc6.jpg
-    - data-src: /images/color_checker/cc7.jpg
-    - data-src: /images/color_checker/cc8.jpg
+    - src: /images/color_checker/cc1.JPG
+    - data-src: /images/color_checker/cc2.JPG
+    - data-src: /images/color_checker/cc3.JPG
+    - data-src: /images/color_checker/cc4.JPG
+    - data-src: /images/color_checker/cc5.JPG
+    - data-src: /images/color_checker/cc6.JPG
+    - data-src: /images/color_checker/cc7.JPG
+    - data-src: /images/color_checker/cc8.JPG
   settings:
     height: "'auto'"
     interval: 13000
@@ -38,11 +38,11 @@
 
 - selector: slider3
   images:
-    - src: /images/joint/joint1.jpg
-    - data-src: /images/joint/joint2.jpg
-    - data-src: /images/joint/joint3.jpg
-    - data-src: /images/joint/joint4.jpg
-    - data-src: /images/joint/joint5.jpg
+    - src: /images/joint/joint1.JPG
+    - data-src: /images/joint/joint2.JPG
+    - data-src: /images/joint/joint3.JPG
+    - data-src: /images/joint/joint4.JPG
+    - data-src: /images/joint/joint5.JPG
   settings:
     height: "'auto'"
     interval: 18000
@@ -50,11 +50,11 @@
 
 - selector: slider4
   images:
-    - src: /images/cv/cv1.jpg
-    - data-src: /images/cv/cv2.jpg
-    - data-src: /images/cv/cv3.jpg
-    - data-src: /images/cv/cv4.jpg
-    - data-src: /images/cv/cv5.jpg
+    - src: /images/cv/cv1.JPG
+    - data-src: /images/cv/cv2.JPG
+    - data-src: /images/cv/cv3.JPG
+    - data-src: /images/cv/cv4.JPG
+    - data-src: /images/cv/cv5.JPG
   settings:
     height: "'auto'"
     interval: 23000
