@@ -94,7 +94,7 @@ As a team leader, I was responsible for task management and team building betwee
 <b>My Pill</b>
 </p>
 <img src="/images/myPills-01.jpg" alt="my pill" height="1"><br /><br />
-<p style="text-align: center;"><a href="/images/MyPillS.pdf">[Project]</a></p><br />
+<p style="text-align: center;"><a href="/images/MyPills.pdf">[Project]</a></p><br />
 
 <p style='text-align: justify'>
 During the project, our team developed a new business model related to Color Science Branch. The idea was to create a device which contains NIR spectrometer for evaluation of the true composition of medicine before consumption to avoid low-quality, fake or substandard pills.
