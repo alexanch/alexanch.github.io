@@ -36,7 +36,7 @@ visualization tools for hyperspectral images based on Unet and cloud computing.<
 {% include slider.html selector="slider2" %}
 <!--<img src="/images/CC_optimized.gif" alt="color checker" align ="middle">-->
 <p style="text-align: center;">
-<a href="">[Project]</a>
+<a href="https://drive.google.com/open?id=1Nu5uXwRr3iCe-a3O5BXwSXybrpC-L0MI">[Project]</a>
 </p><br/>
 <p><ul style='text-align: justify'>
   <li> Built a system for the automatic detection of a color checker in a natural environment under varying illumination with an accuracy of 96%.</li>
