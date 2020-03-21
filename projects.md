@@ -51,7 +51,7 @@ visualization tools for hyperspectral images based on Unet and cloud computing.<
 </p>
 {% include slider.html selector="slider3" %}
 <!--<img src="/images/joint_proj_optimized.gif" alt="counterfeit detection" align ="middle">-->
-<br /><br />
+<br />
 <p style='text-align: justify'>
 <ul>
   <li>Captured hyperspectral images of real banknotes under different illumination (UV, VIS and IR ranges).</li>
