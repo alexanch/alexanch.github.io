@@ -7,6 +7,8 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 My name is Oleksandr, I am a recent graduate student from [Erasmus + Joint Master Degree COSI (Color in Science and Industry)](https://cosi-master.eu/cosi-master-degree/).
 <br /><br />
+Currently, I am building an open-source web application that finds luxury item alternatives from the mass-market. The recommendation algorithm is based on ResNet CNNs used to generate fashion embeddings.
+<br /><br />
 My specialties are Machine/Deep Learning, Computer Vision, Computational Imaging, and Color Science.
 <br /><br />
 I have experience working on computer vision tasks using classical and deep learning methods in both industrial ([Olympus Corp., Japan](https://www.olympus-global.com/), [Vilmorin, France](https://en.wikipedia.org/wiki/Vilmorin)) and academia fields ([SIB Labs, Finland](https://www.uef.fi/web/siblabs/color-research-laboratory)).
