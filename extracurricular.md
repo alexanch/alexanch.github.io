@@ -20,6 +20,18 @@ comments: false
 
   <br />
 
+* <b>[Practical deep learning for coders]() [by fast.ai](https://course.fast.ai/)</b><br /><br />
+  Course includes:
+   * Image classification
+   * Production; SGD from scratch
+   * Multi-label; Segmentation
+   * NLP; Tabular data; Recsys
+   * Backprop; Neural net from scratch
+   * CNN deep dive; Ethics
+   * Resnet; U-net; GANs
+
+  <br />
+
 
 * <b>[Data Structures and Algorithms by Google](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)</b><br /><br />
     Course includes:
