@@ -19,7 +19,21 @@ comments: false
   <p style="text-align: center;"><a href="https://www.coursera.org/account/accomplishments/specialization/FTS4PVUN9DS3">[Certificate]</a></p>
 
   <br />
+  
+* <b>[Relational databases]() [by Udacity](https://www.udacity.com/course/intro-to-relational-databases--ud197)</b><br /><br />
+  Course includes:
+   * Relational databases
+   * Elements of SQL
+   * DB-API – Python API to access databases
+   * Virtual machine (VM) to run a Python web application with a database
+   * Security pitfalls of database applications
+   * Database design
 
+   
+   
+   
+
+  <br />
 * <b>[Practical deep learning for coders]() [by fast.ai](https://course.fast.ai/)</b><br /><br />
   Course includes:
    * Image classification
