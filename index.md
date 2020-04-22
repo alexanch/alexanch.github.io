@@ -4,7 +4,6 @@ title: Hello and Welcome!
 description: Alexu's page
 tags: [Jekyll, theme, responsive, blog, template]
 ---
-<meta property="og:image" content="//alexanch.github.io/images/alex.png" />
 My name is Oleksandr, I am a recent graduate student from [Erasmus + Joint Master Degree COSI (Color in Science and Industry)](https://cosi-master.eu/cosi-master-degree/).
 <br /><br />
 My specialties are Machine/Deep Learning, Computer Vision, Computational Imaging, and Color Science.
