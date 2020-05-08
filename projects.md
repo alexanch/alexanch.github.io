@@ -12,6 +12,21 @@ image_sliders:
 ---
 
 <p style="text-align: center;">
+<b>Find For Me: AI-based app to find alternatives for your desired luxury apparel</b>
+</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3xkjLqi5pmA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p><ul style='text-align: justify'>
+  <li> Developing a client-server web app for visual search/match of luxury clothing alternatives from fast-fashion retailers using Python, Flask, and JavaScript.</li>
+  <li> Collected a dataset of 190k fashion items from online stores through distributed web-scraping.</li>
+  <li> Deployed app to production on Google Cloud Service, optimized ML system, and server configuration, resulting in a memory reduction by 40% and cost reduction by 30%.</li>
+</ul></p><br />
+<br />
+
+
+
+
+<p style="text-align: center;">
 <b>Deep Learning for Dental Hyperspectral Image Analysis</b>
 </p>
 {% include slider.html selector="slider1" %}
