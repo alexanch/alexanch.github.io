@@ -1,4 +1,4 @@
-title:            "Hello, {username}'"
+title:            "Hello, {username}"
 description:      Welcome to Alexu's page.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //alexanch.github.io
