@@ -11,7 +11,7 @@ I have 2 years of experience working on a range of computer vison tasks applying
 <br /><br />
 Originally coming from an Applied Physics background, I found my passion for ML/DL and CS during my studies at [Erasmus + Joint Master Degree COSI (Color in Science and Industry)](https://cosi-master.eu/cosi-master-degree/). The program is focused on a strong collaboration with research institutions and industrial partners in ML and imaging field. 
 <br /><br />
-I studied and worked abroad in four different countries and got to experience research and development from different cultures.
+I studied and worked abroad in four different countries and got to experience research and development from different cultures (🇫🇷, 🇫🇮, 🇪🇸, 🇯🇵).
 <br /><br />
 Passionate about photography and fashion. Some links to explore my life out of studies: [Instagram](https://www.instagram.com/_alexanch/), [Goodreads](https://www.goodreads.com/user/show/79361670-alex-boiko), [500px](https://500px.com/alexanch), and [Lookbook](https://lookbook.nu/alexanch).
 <br /><br /><br /><br />
