@@ -5,6 +5,19 @@ description: Alexu's page
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
+Some random facts about me: <br /><br />
+📌  My primary programming language is Python and usual Python stack(Numpy, Pandas, matplotlib).<br />
+📌  My favorite deep learning framework is fastai (efficient PyTorch wrapper), half of the projects I’ve been working on were built on TensorFlow and Scikit-learn.<br />
+📌  For cloud computing, I prefer GCP, although I worked with AWS too.<br />
+📌  Tools that I use often: Docker, Github. <br />
+📌  During my free time, I am expanding my knowledge in the field by attending meetups/conferences/doing consulting/online education/hackatons.<br /><br />
+
+Feel free to reach out, let's talk life :)
+
+
+
+
+<!---
 My name is Oleksandr, I am a recent graduate student from [Erasmus + Joint Master Degree COSI (Color in Science and Industry)](https://cosi-master.eu/cosi-master-degree/).
 <br /><br />
 My specialties are Machine/Deep Learning, Computer Vision, Computational Imaging, and Color Science.
@@ -18,10 +31,6 @@ I graduated from three universities ([UJM, France](https://www.univ-st-etienne.f
 Passionate about photography and fashion. Some links to explore my life out of studies: [Instagram](https://www.instagram.com/_alexanch/), [Goodreads](https://www.goodreads.com/user/show/79361670-alex-boiko), [500px](https://500px.com/alexanch), and [Lookbook](https://lookbook.nu/alexanch).
 <br /><br />
 Hope you have a great day!
-
-
-
-<!---
 Was awarded by 3 MSc diplomas by:
 1. [University Jean Monnet](https://en.wikipedia.org/wiki/Jean_Monnet_University), (member of [University of Lyon](http://www.ens-lyon.fr/indexation/structures-affiliees-lens-et-partenaires/universite-jean-monnet-saint-etienne)), France
 2. [University of Granada](https://en.wikipedia.org/wiki/University_of_Granada), Spain
