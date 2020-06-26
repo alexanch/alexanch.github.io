@@ -14,12 +14,13 @@ Originally coming from an Applied Physics background, I found my passion for ML/
 I studied and worked abroad in four different countries and got to experience research and development from different cultures.
 <br /><br />
 Passionate about photography and fashion. Some links to explore my life out of studies: [Instagram](https://www.instagram.com/_alexanch/), [Goodreads](https://www.goodreads.com/user/show/79361670-alex-boiko), [500px](https://500px.com/alexanch), and [Lookbook](https://lookbook.nu/alexanch).
-<br /><br />
+<br /><br /><br /><br />
 
-Some random facts about me: <br />
+Some random facts about me: <br /><br />
 📌  My primary programming language is Python and usual Python stack(Numpy, Pandas, matplotlib).<br />
 📌  My favorite deep learning framework is fastai (efficient PyTorch wrapper), half of the projects I’ve been working on were built on TensorFlow and Scikit-learn.<br />
-📌  Tools that I use often: docker, Github. For cloud computing, I prefer GCP, although I worked with AWS too.<br />
+📌  For cloud computing, I prefer GCP, although I worked with AWS too.<br />
+📌  Tools that I use often: Docker, Github. 
 📌  During my free time, I am expanding my knowledge in the field by attending meetups/conferences/doing consulting/online education/hackatons.<br /><br />
 
 Feel free to reach out, let's talk life :)
