@@ -9,7 +9,7 @@ My name is Oleksandr, I am an ML engineer currently developing a web app for vis
 <br /><br />
 I have 2 years of experience working on a range of computer vison tasks applying classical ML and DL, from research to production.
 <br /><br />
-Originally coming from an Applied Physics background, I found my passion for ML/DL and CS during my studies at [Erasmus + Joint Master Degree COSI (Color in Science and Industry)](https://cosi-master.eu/cosi-master-degree/) focused on a strong collab with research institutions and industrial partners in ML and imaging field. 
+Originally coming from an Applied Physics background, I found my passion for ML/DL and CS during my studies at [Erasmus + Joint Master Degree COSI (Color in Science and Industry)](https://cosi-master.eu/cosi-master-degree/). The program is focused on a strong collaboration with research institutions and industrial partners in ML and imaging field. 
 <br /><br />
 I studied and worked abroad in four different countries and got to experience research and development from different cultures.
 <br /><br />
