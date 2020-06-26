@@ -20,7 +20,7 @@ Some random facts about me: <br /><br />
 📌  My primary programming language is Python and usual Python stack(Numpy, Pandas, matplotlib).<br />
 📌  My favorite deep learning framework is fastai (efficient PyTorch wrapper), half of the projects I’ve been working on were built on TensorFlow and Scikit-learn.<br />
 📌  For cloud computing, I prefer GCP, although I worked with AWS too.<br />
-📌  Tools that I use often: Docker, Github. 
+📌  Tools that I use often: Docker, Github. <br />
 📌  During my free time, I am expanding my knowledge in the field by attending meetups/conferences/doing consulting/online education/hackatons.<br /><br />
 
 Feel free to reach out, let's talk life :)
