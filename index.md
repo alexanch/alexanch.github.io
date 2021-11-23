@@ -8,7 +8,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 My name is Oleksandr, working at 7 Sensing Software as a ML engineer. My daily tasks include:  <br />
 • Solving Computational photography challenges <br />
 • Architecting, building, developing, scaling ML and Computer Vision systems <br />
-• Opimising soluion performance for Mobile and Edge Devices (GPU / NPU / TPU) and Micro-service architectures (e.g., Docker, Kubernetes)<br />
+• Opimising soluion performance for Mobile and Edge Devices (GPU / NPU / TPU) and Micro-service architectures (e.g., Docker, Kubernetes) <br /><br />
 
 I have 3.5 years of experience working on a range of computer vison tasks applying classical ML and DL, from research to production.
 <br /><br />
