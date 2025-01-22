@@ -10,7 +10,6 @@ comments: false
   <br />
   <b>Image processing methods and systems for low-light image enhancement using machine learning models</b>
 
-  <img src="/images/publication_dental.png" alt="deep learning  dental hyperspectral imaging" class="inline"/>
   <br />
   <p style="text-align: center;">
    <a href="https://patents.google.com/patent/US20230186446A1/en">[Patent]</a>
@@ -25,7 +24,6 @@ comments: false
 
 * <b>O. Boiko</b>, A. Collard, C. RENÉ, E. SOLEIMANI
   <br />
-  <b>Image processing methods and systems for generating a training dataset for low-light image enhancement using machine learning models</b>
 
   <img src="/images/publication_dental.png" alt="deep learning  dental hyperspectral imaging" class="inline"/>
   <br />
