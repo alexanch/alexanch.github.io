@@ -6,9 +6,8 @@ tags: [publications]
 comments: false
 ---
 
-* <b>Image processing methods and systems for low-light image enhancement using machine learning models</b>
-  <br />
-  <b>O. Boiko</b>, A. Collard, C. RENÉ, E. SOLEIMANI
+*   <b>O. Boiko</b>, A. Collard, C. RENÉ, E. SOLEIMANI <br />
+    <b>Image processing methods and systems for low-light image enhancement using machine learning models</b>
   <br />
   <p style="text-align: center;">
    <a href="https://patents.google.com/patent/US20230186446A1/en">[Patent]</a>
@@ -19,10 +18,10 @@ comments: false
   </p>
   <br /><br />
 
-* 
+
+* <b>O. Boiko</b>, A. Collard, C. RENÉ, E. SOLEIMANI <br />
   <b>Image processing methods and systems for generating a training dataset for low-light image enhancement using machine learning models</b>
   <br />
-  <b>O. Boiko</b>, A. Collard, C. RENÉ, E. SOLEIMANI
   <p style="text-align: center;">
    <a href="https://patents.google.com/patent/US20230186612A1/en">[Patent]</a>
   </p>
