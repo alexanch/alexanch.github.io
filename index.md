@@ -5,20 +5,23 @@ description: Alexu's page
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-My name is Oleksandr, working at 7 Sensing Software as a ML engineer bringing multi-modal sensing, machine learning and computer vision to the edge. <br />I have 6 years of experience working on a range of computer vison tasks applying classical ML and DL, from research to production.
+My name is Oleksandr, working at 7 Sensing Software as a Machine Learning Engineer bringing multi-modal sensing, artificial intelligence and computer vision to the edge and on-cloud. <br />I have 6 years of experience working on a range of computer vison tasks applying classical ML and DL, from research to production.
 <br /><br />
 
-My daily tasks include:  <br />
+
+My daily tasks include: <br />
 • Architecting, building, developing, scaling ML and Computer Vision systems <br />
 • Solving Computational photography challenges <br />
-• Opimising soluion performance for Mobile and Edge Devices (GPU / NPU / TPU)  <br />
-• Deploying ML models to micro-service architectures (e.g., Docker, Kubernetes) <br /><br />
+• Optimising solution performance for Mobile and Edge Devices (GPU / NPU / TPU) <br />
+• Deploying ML models to micro-service architectures (e.g., Docker, Kubernetes) <br /> <br />
+
 
 Originally coming from an Applied Physics background, I found my passion for AI and CS during my studies at [Erasmus + Joint Master Degree COSI (Color in Science and Industry)](https://cosi-master.eu/cosi-master-degree/). The program is focused on a strong collaboration with research institutions and industrial partners in ML and imaging field. 
 <br /><br />
 I studied and worked abroad in four different countries and got to experience research and development from different cultures (France, Finland, Japan, Spain).
 <br /><br />
-Passionate vinyl collector and music lover. Some links to explore my life out of work: [Instagram](https://www.instagram.com/_alexanch/), [Goodreads](https://www.goodreads.com/user/show/79361670-alex-boiko), [500px](https://500px.com/alexanch), and [Lookbook](https://lookbook.nu/alexanch).
+Passionate vinyl collector and music lover. Specialty coffee ambassador :)
+Some links to explore my life out of work: [Instagram](https://www.instagram.com/_alexanch/), [Goodreads](https://www.goodreads.com/user/show/79361670-alex-boiko), [500px](https://500px.com/alexanch), and [Lookbook](https://lookbook.nu/alexanch).
 <br /><br /><br /><br />
 
 <!---
